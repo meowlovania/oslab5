@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "combo", "combo\combo.vcproj", "{CCBEB5B9-C36F-4DEC-9054-20EB8BF99FFA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLL", "DLL\DLL.vcproj", "{699C7E65-6446-45CC-984A-1C88DE22C009}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{CCBEB5B9-C36F-4DEC-9054-20EB8BF99FFA}.Debug|Win32.Build.0 = Debug|Win32
 		{CCBEB5B9-C36F-4DEC-9054-20EB8BF99FFA}.Release|Win32.ActiveCfg = Release|Win32
 		{CCBEB5B9-C36F-4DEC-9054-20EB8BF99FFA}.Release|Win32.Build.0 = Release|Win32
+		{699C7E65-6446-45CC-984A-1C88DE22C009}.Debug|Win32.ActiveCfg = Debug|Win32
+		{699C7E65-6446-45CC-984A-1C88DE22C009}.Debug|Win32.Build.0 = Debug|Win32
+		{699C7E65-6446-45CC-984A-1C88DE22C009}.Release|Win32.ActiveCfg = Release|Win32
+		{699C7E65-6446-45CC-984A-1C88DE22C009}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
